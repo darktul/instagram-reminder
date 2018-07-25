@@ -17,8 +17,8 @@
 #Please replace [XXX] with your bot setting
 
 line.bot: 
-  channel-token: [XXX]
-  channel-secret: [XXX]
+  channel-token: x0sv1QyHlF2mNo97bThwlABvI3pvvWIRXiapMHUptq1e7mQ3Bzz2BZbglkZ5OUe8rCJ98CqNQTEqQ8JuHtXzLaYa0iw7A2m76vjbj0niyf8IEBeEnbDTVm+a0L6tnWvXTFDsa9YBS3rWSXpknjF8zQdB04t89/1O/w1cDnyilFU=
+  channel-secret: 39a7609d60208fd981cc8a6708319f58
   handler.path: /callback
 
 # To remove Client wire logs. Please comment out following lines.
